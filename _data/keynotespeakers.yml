@@ -1,0 +1,17 @@
+ - image: Ted.jpg
+   name: Ted Harrington
+   title: The Hackable Method
+   bio: >- 
+        Ted Harrington is the #1 bestselling author of "Hackable", which led to his TED talk “Why You Need To Think Like a Hacker.” He’s the Executive Partner at ISE, the company of ethical hackers famous for hacking cars, medical devices, and web apps; he also co-founded START, software which simplifies vendor risk management. His clients include Google, Amazon, and Netflix, and he has been featured in more than 100 media outlets, including The Wall Street Journal, Financial Times, and Forbes. His team founded IoT Village, an event series whose hacking contest is a four-time DEF CON Black Badge winner, and he hosts the Tech Done Different podcast.
+
+To get help with security testing, vendor risk management, or to book Ted as your keynote speaker, visit https://www.tedharrington.com.
+#   subject: 
+   abstract: >-
+        Have you ever wondered how hackers think? Do you know what things most companies get wrong when trying to secure their apps? Do you know what to do instead?
+
+In this keynote, you'll hear stories from the front lines of ethical hacking. Led by Ted Harrington -- #1 bestselling author of Hackable, co-founder of IoT Village, and a leader of ethical hackers -- you'll learn how to build better, more secure systems, including:
+ - what it means to think like a hacker (and how to apply those principles)
+ - the most common misconceptions and mistakes that people make in application security
+ - what to do instead
+
+You'll hear fun stories that vividly illustrate and explain the points, and learn what to do about it. Ted will be available for a book signing afterwards, too!
